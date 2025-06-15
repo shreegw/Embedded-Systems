@@ -1,3 +1,5 @@
+/* This is Version 1.0 */
+
 /*This code wont run if pasted directly, all the required settings (clock and pins) must be completed in the ioc file before running the code*/
 
 /* USER CODE BEGIN Header */
