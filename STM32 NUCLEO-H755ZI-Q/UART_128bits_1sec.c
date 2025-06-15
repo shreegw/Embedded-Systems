@@ -1,4 +1,7 @@
-/* This code sends 1 Byte of data every second. The data is already fixed for this one. This is Version 1.1*/
+/* This is Version 1.1 */
+
+
+/* This code sends 1 Byte of data every second. The data is already fixed for this one. */
 
 /* USER CODE BEGIN Header */
 /**
