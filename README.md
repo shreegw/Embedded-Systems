@@ -11,3 +11,10 @@
 
   ### ESP32 PICO D4 PROJECTS
   1. UART Transmission 128 Bits
+
+
+  ### Steps to Use the Code
+  1. Open STM32 CUBEIDE and setup the files and initialize the UART3 and Crypto Modules
+  2. Click on Generate code
+  3. Make sure all the libraries are included
+  4. Copy and Paste the code
